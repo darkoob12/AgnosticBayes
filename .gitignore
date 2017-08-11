@@ -1,0 +1,4 @@
+*.sln
+*.csv
+*.pyproj
+datasets/*
